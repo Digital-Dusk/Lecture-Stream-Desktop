@@ -1,4 +1,4 @@
-# Lecture Stream Desktop Issue Reporting
+# Lecture Stream Desktop Issue Reporting / Feature Requests
 
 Find an issue with Lecture Stream Desktop? Have a feature request? Report it at the link below:
 
